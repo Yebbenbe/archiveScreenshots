@@ -17,4 +17,6 @@
 - Location: `powershell.exe -ExecutionPolicy Bypass -File "C:\path\to\the\script.ps1"`
 - Save it something recognizable.
 
+## Example
+
 ![image](https://github.com/user-attachments/assets/c997b6ef-79dc-4e8a-a037-d9abff776b7b)
